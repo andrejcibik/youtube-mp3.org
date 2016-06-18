@@ -1,0 +1,15 @@
+
+List of changes in html:
+
+1. Logo has class="logo"
+2. Logo has svg image with png fallback
+3. label class="desc-wrap" wrapped around div id="description" and div id="footer".
+3. Input id="desc-toggle" added before Label class="desc-wrap".
+4. Span class="desc-toggle-button" added inside Label class="desc-wrap".
+5. Favicons added to HEAD.
+6. Chrome theme color added to HEAD.
+7. Input id="desc-toggle" and label class="desc-wrap" placed after div id="inner".
+8. Favicon added to HEAD.
+
+
+I hide adds for design purpouses.
